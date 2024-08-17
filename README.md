@@ -5,7 +5,6 @@
 - 📫 How to reach me: You can reach me via email at sultanmuhammaddhavi@gmail.com or connect with me on LinkedIn.
 - ⚡ Fun fact: I love solving complex coding challenges and I’m a huge fan of Death Metal!
 
-<!---
-dhavisiregar/dhavisiregar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat&logo=JavaScript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
