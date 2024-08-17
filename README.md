@@ -5,6 +5,7 @@
 - 📫 How to reach me: You can reach me via email at sultanmuhammaddhavi@gmail.com or connect with me on LinkedIn.
 - ⚡ Fun fact: I love solving complex coding challenges and I’m a huge fan of Death Metal!
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat&logo=JavaScript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777bb3?style=flat&logo=php&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
