@@ -5,7 +5,4 @@
 - 📫 How to reach me: You can reach me via email at sultanmuhammaddhavi@gmail.com or connect with me on LinkedIn.
 - ⚡ Fun fact: I love solving complex coding challenges and I’m a huge fan of Death Metal!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
