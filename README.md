@@ -18,6 +18,7 @@
 </div>
 
 <h2>Most Used Languange</h2>
+
 <div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavisiregar&layout=compact&theme=dark)</div>
 
-<div>![Profile Views](https://komarev.com/ghpvc/?username=dhavisiregar&color=blue)</div>
+![Profile Views](https://komarev.com/ghpvc/?username=dhavisiregar&color=blue)
