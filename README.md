@@ -17,5 +17,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </div>
 
-
+<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=dhavisiregar&color=blue)
