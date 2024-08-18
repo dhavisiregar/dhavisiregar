@@ -5,7 +5,7 @@
 - 📫 How to reach me: You can reach me via email at sultanmuhammaddhavi@gmail.com or connect with me on LinkedIn.
 - ⚡ Fun fact: I love solving complex coding challenges and I’m a huge fan of Death Metal!
 
-<h1>Tech Stacks</h1>
+<h2>Tech Stacks</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
