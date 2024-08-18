@@ -16,3 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </div>
+
+<h2>Top Languange</h2>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavisiregar&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhavisiregar&color=blue)
