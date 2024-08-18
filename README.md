@@ -17,9 +17,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </div>
 
-<h2>Most Used Languange</h2>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=dhavisiregar&layout=compact&theme=dark
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhavisiregar&color=blue)
