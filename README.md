@@ -9,7 +9,7 @@
 
 <h2>Tech Stacks</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" style="padding:10px; background-color:white; border-radius:15%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
