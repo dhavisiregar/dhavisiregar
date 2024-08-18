@@ -1,9 +1,11 @@
 <h1>Hi, I'm Sultan Muhammad Dhavi!</h1>
-- 👀 I’m interested in Front-End Development and Back-End Development
-- 🌱 I’m currently learning Full-Stack Web Development
-- 💞️ I’m looking to collaborate on innovative web development projects and open-source contributions.
-- 📫 How to reach me: You can reach me via email at sultanmuhammaddhavi@gmail.com or connect with me on LinkedIn.
-- ⚡ Fun fact: I love solving complex coding challenges and I’m a huge fan of Death Metal!
+<ul>
+  <li>👀 I’m interested in Front-End Development and Back-End Development</li>
+  <li>🌱 I’m currently learning Full-Stack Web Development</li>
+  <li>💞️ I’m looking to collaborate on innovative web development projects and open-source contributions</li>
+  <li>📫 How to reach me: You can reach me via email at sultanmuhammaddhavi@gmail.com or connect with me on LinkedIn</li>
+  <li>⚡ Fun fact: I love solving complex coding challenges and I’m a huge fan of Death Metal!</li>
+</ul>
 
 <h2>Tech Stacks</h2>
 <div align="left">
