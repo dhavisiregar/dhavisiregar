@@ -8,7 +8,7 @@
 </ul>
 
 <h2>Tech Stacks</h2>
-<div align="left">
+<div align="left" style="border-style:solid; border-color: red; border-width: medium;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border:2px; border-radius:15%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
