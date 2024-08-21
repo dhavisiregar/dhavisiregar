@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
-  <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" width="70" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>     
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
 </div>
 
