@@ -17,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" style="padding:10px; background-color:#222222; border-radius:15%;"/>        
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhavisiregar&color=blue)
