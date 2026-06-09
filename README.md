@@ -1,5 +1,15 @@
 # 💫 About Me:
-Backend Developer specializing in building scalable, high-performance systems using Go, Laravel, and FilamentPHP.<br><br>- Develop and maintain scalable backend services and RESTful APIs<br>- Build internal CMS and Learning Management Systems (LMS) integrated with SSO<br>- Design efficient database architectures and optimize complex queries for large-scale data processing<br>- Customize and extend FilamentPHP Admin Panels to support business workflows<br>- Contribute to cross-functional projects involving React and Go to improve system reliability and user experience<br>- Focus on clean architecture, maintainability, and long-term scalability of backend systems<br><br>I’m passionate about solving complex backend challenges, optimizing system performance, and building reliable systems that grow alongside business needs.
+I’m a Backend Developer specializing in building scalable, high-performance systems and clean, maintainable backend architectures.<br><br>
+
+At my current role, I’ve developed an internal Learning Management System (LMS) CMS integrated with SSO, optimized RESTful APIs, and improved database performance for systems handling large-scale data. I’ve also contributed to cross-functional projects involving React and Go, enhancing overall system reliability and efficiency.<br><br>
+
+I specialize in:<br>
+• Scalable backend development (Laravel, Go)<br>
+• API design and performance optimization<br>
+• Database design and query optimization<br>
+• Internal tools & CMS development (FilamentPHP)<br><br>
+
+I enjoy solving complex backend challenges, optimizing system performance, and building reliable systems that scale with business needs.
 
 
 # 💻 Tech Stack:
